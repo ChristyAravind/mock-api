@@ -1,5 +1,6 @@
 
-"MOVIE" =[
+"movie" =
+            [
     {
         name:" Shawshank Redemption",
         star:" Tim Robbins, Morgan Freeman, Bob Gunton",
@@ -49,4 +50,5 @@
         img:"https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg"
       }
   ]
+}
   
